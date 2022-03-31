@@ -18,7 +18,7 @@ Esta distribución sigue las posiciones de las teclas para Dvorak latinoamerican
 
 Usted puede mejorar esta distribución de teclado.
 
-# Instalación
+### Instalación
 
 Para un solo usuario: Doble click en el archivo .bundle y siga las instrucciones, o copie el archivo .bundle en ~/Biblioteca/Keyboard Layouts
 
